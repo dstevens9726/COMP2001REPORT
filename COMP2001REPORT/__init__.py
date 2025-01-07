@@ -17,11 +17,11 @@ with app.app_context():
         print(app.url_map)
         print("Database Connected Successfully")
     except Exception as e:
-        print("Error connecting to the database:", e)
+        print("Error connecting to database:", e)
 
 
 import models
-import procedures
+import callProcedures
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000)
