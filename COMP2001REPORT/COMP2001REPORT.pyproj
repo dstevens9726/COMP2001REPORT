@@ -23,8 +23,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="callProcedures.py" />
+    <Compile Include="COMP2001REPORT - Copy - Copy.py" />
     <Compile Include="models.py" />
-    <Compile Include="COMP2001REPORT - Copy.py" />
+    <Compile Include="verifyUser.py" />
     <Compile Include="requirements.txt" />
     <Compile Include="__init__.py" />
   </ItemGroup>
