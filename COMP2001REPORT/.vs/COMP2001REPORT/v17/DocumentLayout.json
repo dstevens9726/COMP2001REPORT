@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pooki\\source\\repos\\COMP2001REPORT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7F2B4-5D89-480B-A4E2-E6C2039DA72D}|COMP2001REPORT.pyproj|C:\\Users\\pooki\\source\\repos\\COMP2001REPORT\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5E7F2B4-5D89-480B-A4E2-E6C2039DA72D}|COMP2001REPORT.pyproj|solutionrelative:__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E7F2B4-5D89-480B-A4E2-E6C2039DA72D}|COMP2001REPORT.pyproj|C:\\Users\\pooki\\source\\repos\\COMP2001REPORT\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5E7F2B4-5D89-480B-A4E2-E6C2039DA72D}|COMP2001REPORT.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\pooki\\source\\repos\\COMP2001REPORT\\requirements.txt",
+              "RelativeDocumentMoniker": "requirements.txt",
+              "ToolTip": "C:\\Users\\pooki\\source\\repos\\COMP2001REPORT\\requirements.txt",
+              "RelativeToolTip": "requirements.txt",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwDMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-07T07:03:31.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "__init__.py (COMP2001REPORT)",
+              "DocumentMoniker": "C:\\Users\\pooki\\source\\repos\\COMP2001REPORT\\__init__.py",
+              "RelativeDocumentMoniker": "__init__.py",
+              "ToolTip": "C:\\Users\\pooki\\source\\repos\\COMP2001REPORT\\__init__.py",
+              "RelativeToolTip": "__init__.py",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-01-07T07:02:47.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
