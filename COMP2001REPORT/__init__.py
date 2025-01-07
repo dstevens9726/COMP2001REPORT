@@ -1,7 +1,8 @@
 import os
-from flask import Flask, app
+from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
-from flask_migrate import Migrate, migrate
+from flask_migrate import Migrate
+from flask_restx import Api
 
 app = Flask(__name__)
 
@@ -19,9 +20,8 @@ with app.app_context():
     except Exception as e:
         print("Error connecting to database:", e)
 
-
 import models
-import callProcedures
+import callProcedures  # Ensure that this contains the route definitions, but don't run the app here.
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8000)
+# Don't call app.run() here.
+
